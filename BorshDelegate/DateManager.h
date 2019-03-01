@@ -1,5 +1,5 @@
 //
-//  DateManager.h
+//  Datemanager.h
 //  BorshDelegate
 //
 //  Created by Александр on 01.03.2019.
@@ -8,10 +8,9 @@
 
 #import <Foundation/Foundation.h>
 
-NS_ASSUME_NONNULL_BEGIN
-
 @interface DateManager : NSObject
+
+- (BOOL)isLunchTime;
 
 @end
 
-NS_ASSUME_NONNULL_END

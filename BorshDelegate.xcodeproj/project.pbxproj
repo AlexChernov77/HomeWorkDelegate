@@ -15,6 +15,7 @@
 		2B957632222886EE0032AD55 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B957631222886EE0032AD55 /* main.m */; };
 		2B95763D22288B7C0032AD55 /* Granny.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B95763A22288B7C0032AD55 /* Granny.m */; };
 		2B95763E22288B7C0032AD55 /* Grandson.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B95763C22288B7C0032AD55 /* Grandson.m */; };
+		7E6319F12229B78F00E050B9 /* DateManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E6319F02229B78F00E050B9 /* DateManager.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,8 @@
 		2B95763A22288B7C0032AD55 /* Granny.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Granny.m; sourceTree = "<group>"; };
 		2B95763B22288B7C0032AD55 /* BorshDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BorshDelegate.h; sourceTree = "<group>"; };
 		2B95763C22288B7C0032AD55 /* Grandson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Grandson.m; sourceTree = "<group>"; };
+		7E6319EF2229B78F00E050B9 /* DateManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DateManager.h; sourceTree = "<group>"; };
+		7E6319F02229B78F00E050B9 /* DateManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DateManager.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +82,8 @@
 				2B95762D222886EE0032AD55 /* LaunchScreen.storyboard */,
 				2B957630222886EE0032AD55 /* Info.plist */,
 				2B957631222886EE0032AD55 /* main.m */,
+				7E6319EF2229B78F00E050B9 /* DateManager.h */,
+				7E6319F02229B78F00E050B9 /* DateManager.m */,
 			);
 			path = BorshDelegate;
 			sourceTree = "<group>";
@@ -158,6 +163,7 @@
 				2B95763D22288B7C0032AD55 /* Granny.m in Sources */,
 				2B957624222886EC0032AD55 /* AppDelegate.m in Sources */,
 				2B95763E22288B7C0032AD55 /* Grandson.m in Sources */,
+				7E6319F12229B78F00E050B9 /* DateManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
